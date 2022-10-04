@@ -1,0 +1,30 @@
+body.cha1{
+    background-color: rgb(14, 14, 33);
+}
+
+img.harry{
+    width: 300px;
+    height: 400px;
+    float: right;
+    border-radius: 20%;
+    margin-right: auto;
+    margin-right: auto;
+    
+}
+h1{
+    font-family: 'Alkalami', serif;
+    position: absolute;
+    left: 300px;
+    top: 500px;
+    right: 100px;
+    text-align: center;
+    color: white;
+}
+p{
+    position: absolute;
+    left: 300px;
+    top: 600px;
+    right: 100px;
+    text-align: center;
+    color: white;
+}
